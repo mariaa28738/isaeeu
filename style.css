@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    background-position: center; /* Centers the background image */
+    margin: 0 auto;
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url("https://i.pinimg.com/originals/17/8c/0e/178c0e149e4adbcaf6192c3e69c24a41.jpg")
+}  
+
+h1 {
+    color: rgb(0, 0, 0);
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #ff0000;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
+}
+
+button:hover {
+    background-color: #b30000;
+
+}
+
+#mensagem {
+    color: #ffffff;
+    font-weight: bold;
+}
+
+#textoAlterado {
+    color: rgb(255, 255, 255);
+    font-style: italic;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+} 
+p{
+color:rgb(255, 255, 255)    
+} 
+label {
+    color:#f0f0f0
+}
